@@ -2,11 +2,27 @@
 
 <h1 align="center">Projects & Experiences</h1>
 
+[Arveoli Mobile App](https://play.google.com/store/apps/details?id=com.arveoli.app)
+* Ship your packages with Arveoli, pick your shipping service, compare prices, track packages
+* I was given responsibility to prototype, and create from zero to launch, every part of the mobile app.
+* Utilizes a RESTful API to handle auth and manage members / family data
+* Flutter, Express.js
+
+---
+
+[Scalev](https://scalev.id/)
+* Grow your business with Scalev. Build your landing page, track your business sales and manage it end-to-end.
+* I was given responsibility to develop marketing program feature.
+* Utilizes a RESTful API to manage marketing program feature.
+* Nuxt 2
+
+---
+
 [White Bee CBE Members Directory](https://wbcbe-directory.vercel.app) | [Repository](https://github.com/khalifavi/wbcbe-directory)
 * Manage Family & Students bio data of White Bee Family
 * I was given responsibility to design, and create from zero to launch, every part of the app.
 * Utilizes a RESTful API to handle auth and manage members / family data
-* React.js, Next.js, REST, Supabase
+* React.js, Next.js, REST, Supabase, Planetscale
 
 ---
 
@@ -20,7 +36,7 @@
 **Microsite @Rumah123.com**
 * Wordpress Pagebuilder to be used by evergreen / paying leads.
 * I was given responsibility to implement the design, add new features, bugfix, and adjust features according to latest business needs.
-* Wordpress theme development (PHP).
+* Wordpress theme development (PHP), Sage, Tailwind, Elementor
 
 ---
 
